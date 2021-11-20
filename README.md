@@ -17,9 +17,13 @@ There is Python version of Zbar as well as other versions even for working on ip
 See here for more information:
 
 http://zbar.sourceforge.net/
+
 https://en.wikipedia.org/wiki/ZBar
+
 https://pypi.org/project/pyzbar/
+
 https://linuxtv.org/downloads/zbar/
+
 https://sourceforge.net/projects/zbar/files/zbar/
 
 
